@@ -5,4 +5,4 @@ what about this line!
 using https way is better!
 This is added in dev branch
 one version ahead
-Creating a new branch is quick&simple.
+creating a new branch is quick and simple.
